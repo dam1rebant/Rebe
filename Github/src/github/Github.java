@@ -16,7 +16,7 @@ public class Github {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a=2;
+        int a=7;
         int b=5;
         String c = "edu";
         String d = "rebe";
